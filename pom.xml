@@ -14,4 +14,8 @@
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
 
+    <modules>
+        <module>hello-world</module>
+        <module>hello-world-complex</module>
+    </modules>
 </project>

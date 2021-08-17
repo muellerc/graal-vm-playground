@@ -1,2 +1,6 @@
 .idea/
 target/
+aws-greengrass-nucleus/
+
+*.iml
+.DS_Store
